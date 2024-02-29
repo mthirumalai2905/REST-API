@@ -1,2 +1,2 @@
-# USE THE FOLLOWING LINK TO GENERATE RANDOM JSONs and VARIOUS OTHER FORMATTED DATAS
+# Use the Follownig link to generate random datas
 https://www.mockaroo.com/
